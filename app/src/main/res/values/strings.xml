@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MsgSharingApp</string>
+    <string name="btn_show_toast">Show Toast</string>
+    <string name="btn_move_to_next_activity">Move To Next Activity</string>
+    <string name="btn_share_to_apps">Share to other apps</string>
+    <string name="btn_hobbies">Show my Hobbies</string>
+    <string name="et_enter_msg">Enter a message</string>
+    <string name="btn_was_clicked">Button was clicked !</string>
+    <string name="btnShowToast">Show Toast</string>
+    <string name="etUserMessage">Enter your Message</string>
+
+    <string name="btnSendMsgToNextActivity">Move to Next Activity</string>
+
+    <string name="btnShareToOtherApps">Share to other apps</string>
+
+    <string name="txtUserMessage">TextView</string>
+    <string name="txvTitle">Title</string>
+    <string name="btnRecyclerViewDemo">Show my Hobbies</string>
+
+</resources>
+
+
+
+
